@@ -7,7 +7,7 @@ using namespace std;
 
 int Habib[51];
 int n;
-
+ 
 void input() {       //Method untuk input
     while (true) {   //Looping
         cout << "Masukan array banyaknya elemen pada array : "; //Output ke layar
