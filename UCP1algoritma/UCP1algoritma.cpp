@@ -1,5 +1,5 @@
 // 1. dengan cara Static dan dynamic
-// 2. dengan dua cara cin dan cout
+// 2. dengan dua cara yaitu bubblesort dan insesort
 // 3. Bubblesort, karena lebih mudah dan efesien
 
 #include <iostream>
