@@ -6,3 +6,17 @@ struct Node {
 	string name;
 	Node* next;
 };
+
+Node* START = NULL;
+
+void addNode() {
+	int nim;
+	string nama;
+	Node* nodeBaru = new Node();
+	cout << "Masukan Nim : ";
+	cin >> nim;
+	cout << "Masukan Nama : ";
+	cin >> nama;
+	nodeBaru->noMhs = nim;
+	nodeBaru->name = nama;
+
