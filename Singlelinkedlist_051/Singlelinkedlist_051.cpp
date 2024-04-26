@@ -165,7 +165,7 @@ int main() {
 					cout << "nim: " << nim << "berhasil dihapus" << endl;
 					system("pause");
 					system("cls");
-				}
+				} 
 				else
 					cout << "Data tidak ditemukan" << endl;
 				break;
